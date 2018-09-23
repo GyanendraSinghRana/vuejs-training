@@ -43,7 +43,7 @@
 <script>
     import List from './components/List.vue';
     import progressBar from './components/ProgressBar.vue';
-    const TOTAL = 5;
+    const TOTAL = 12;
     
     export default {
         data() {
