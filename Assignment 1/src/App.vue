@@ -63,7 +63,7 @@
         },
         methods: {
             add() {
-                if (!this.listFull && this.item) {
+                if (!this.listFull && this.item.trim()) {
                     this.todoList.push(this.item);
                     this.item = '';
                 }               
