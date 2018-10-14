@@ -1,0 +1,67 @@
+{
+  "total": 
+  [
+      {
+        "id": 1,
+        "name": "Audi",
+        "value": 80,
+        "volume": 10
+      },
+      {
+        "id": 2,
+        "name": "BMW",
+        "value": 55,
+        "volume": 12
+      },
+      {
+        "id": 3,
+        "name": "Mercedes Benz",
+        "value": 40,
+        "volume": 1
+      },
+      {
+        "id": 4,
+        "name": "Jaguar",
+        "value": 85,
+        "volume": 18
+      },
+      {
+        "id": 5,
+        "name": "Tesla",
+        "value": 58,
+        "volume": 5
+      },
+      {
+        "id": 6,
+        "name": "Bugati",
+        "value": 45,
+        "volume": 25
+      },
+      {
+        "id": 7,
+        "name": "Aston Martin",
+        "value": 40,
+        "volume": 15
+      },
+      {
+        "id": 8,
+        "name": "Ferrai",
+        "value": 60,
+        "volume": 10
+      },
+      {
+        "id": 9,
+        "name": "Porsche",
+        "value": 85,
+        "volume": 12
+      },
+      {
+        "id": 10,
+        "name": "Land Rover",
+        "value": 55,
+        "volume": 20
+      }
+  ],
+  "bought":[],
+  "funds": 1000
+}
